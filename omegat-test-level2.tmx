@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Test project</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="thayash3" changedate="20151021T023442Z" creationid="thayash3" creationdate="20151021T023442Z">
+        <seg>テストプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This slide is provided for testing <ph x="0">&lt;t0/&gt;</ph>OmegaT<ph x="1">&lt;t1/&gt;</ph> team project feature.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="thayash3" changedate="20151021T023505Z" creationid="thayash3" creationdate="20151021T023505Z">
+        <seg>このスライドはOmegaTのチームプロジェクト機能のテスト用です。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
